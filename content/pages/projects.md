@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for an assignment to translate a section
+  of the course text into a constrained language.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

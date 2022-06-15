@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of musical pieces that the instructor chose
+  to accompany readings from the course text, and additional readings for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
