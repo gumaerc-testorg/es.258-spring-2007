@@ -10,11 +10,11 @@ uid: 9ec4773c-41eb-ac63-78e1-0e5f7ebd34b5
 ---
 ## Links
 
-- [Lego Escher](http://www.andrewlipson.com/escher/relativity.html)
-- [Escher and the Droste effect](http://www.birs.ca/publiclectures/2018/18pl001) - Some mathematicians fill in the hole in the middle of Escher's "Print Gallery", and let you zoom in endlessly.
-- [Marvin Minsky's Web page](http://web.media.mit.edu/~minsky/), including an online draft of The Emotion Machine
-- Here's the paper on Hofstadter's Copycat system for making analogies in a small domain. ([PDF - 1.3 MB](http://www.nbu.bg/cogs/events/2004/materials/Boicho/copycat1.pdf))
-- [Wikipedia has an article on Egbert B. Gebstadter](http://en.wikipedia.org/wiki/Egbert_B._Gebstadter).
+- {{% resource_link "f860173b-541b-4125-8c45-208eb1ab6eeb" "Lego Escher" %}}
+- {{% resource_link "4a7eff97-3e98-439f-a941-36f56d711114" "Escher and the Droste effect" %}} - Some mathematicians fill in the hole in the middle of Escher's "Print Gallery", and let you zoom in endlessly.
+- {{% resource_link "9fef43a5-e54c-4c75-8158-ec6f0481aaec" "Marvin Minsky's Web page" %}}, including an online draft of The Emotion Machine
+- Here's the paper on Hofstadter's Copycat system for making analogies in a small domain. ({{% resource_link "18f511d3-172b-4edb-8ba9-dae4d63cec4d" "PDF - 1.3 MB" %}})
+- {{% resource_link "1f0299f5-c87f-4a01-8564-d08280d38180" "Wikipedia has an article on Egbert B. Gebstadter" %}}.
 
 ## Further Reading
 
