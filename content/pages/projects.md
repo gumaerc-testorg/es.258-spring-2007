@@ -27,4 +27,4 @@ Some Possible Constraints:
 *   Use only words of one syllable
 *   "Ander-Saxon": avoid all words with Latin or Greek roots (tricky)
 
-An impressive constrained piece of writing, including several constrained translations, is the story "{{% resource_link "5044ab5d-2bcc-492c-9a41-dc5d32405f07" "Cadaeic Cadenza" %}}".
+An impressive constrained piece of writing, including several constrained translations, is the story "[Cadaeic Cadenza](http://www.cadaeic.net/cadenza.htm)".
